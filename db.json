@@ -1,0 +1,724 @@
+[
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+    "productName": "AMD Ryzen 3 4100 Processor",
+    "category": "Processor",
+    "status": "In Stock",
+    "price": "14000",
+    "description": "AMD Ryzen 3 4100 Processor has 4 processor cores, 8 threads, and an astonishingly efficient 45-65W TDP. ",
+    "keyFeatures": {
+      "brand": "amd",
+      "model": "Ryzen 3 4100 Processor",
+      "specification": "  3.8GHz; Up to 4.0GHz",
+      "port": "Port",
+      "type": "4 Cores & 8 Threads",
+      "resolution": "Resolution",
+      "voltage": "65W"
+    },
+    "individualRating": "5",
+    "averageRating": "4.6",
+    "reviews": [
+      {
+        "username": "User1",
+        "rating": "4",
+        "comment": "This product is great!"
+      },
+      {
+        "username": "User2",
+        "rating": "5",
+        "comment": "Highly recommended!"
+      },
+      {
+        "username": "User3",
+        "rating": "3",
+        "comment": "It's okay, but could be better."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/i5-10400/i5-10400-1-500x500.jpg",
+    "productName": "Intel 10th Gen Core i5-10400F Processor",
+    "category": "Processor",
+    "status": "In Stock",
+    "price": "14000",
+    "description": "This i5-10400F Processor is the new 10th gen Comet Lake microarchitecture that is manufactured with the 14nm process that comes with six cores but lacks in HyperThreading",
+    "keyFeatures": {
+      "brand": "Intel",
+      "model": "10th Gen Core i5-10400F ",
+      "specification": "2.90 GHz up to 4.30 GHz",
+      "port": "Port",
+      "type": " DDR4-2666",
+      "resolution": "Resolution",
+      "voltage": "65W"
+    },
+    "individualRating": "4",
+    "averageRating": "4.4",
+    "reviews": [
+      {
+        "username": "User1",
+        "rating": "4",
+        "comment": "This product is great!"
+      },
+      {
+        "username": "User2",
+        "rating": "5",
+        "comment": "Highly recommended!"
+      },
+      {
+        "username": "User3",
+        "rating": "3",
+        "comment": "It's okay, but could be better."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i5-13600k/Core%20i5%2013600K-01-228x228.webp",
+    "productName": "Intel 13th Gen Core i5 13600K Raptor Lake Processor",
+    "category": "Processor",
+    "status": "In Stock",
+    "price": "14000",
+    "description": "The Intel Core i5-13600K 3.5 GHz 14-Core LGA 1700 Processor will boost your productivity, gaming, and content production. This 13th-generation desktop CPU expands on the Hybrid Core design and Intel 7 process by packing 14 cores onto a single chip, four more than the prior generation, while still fitting the LGA 1700 socket. ",
+    "keyFeatures": {
+      "brand": "Intel",
+      "model": "Core i5 13600K",
+      "specification": " 3.50 GHz up to 5.10 GHz",
+      "port": "Port",
+      "type": "Up to DDR5 5600 MT/s",
+      "resolution": "Resolution",
+      "voltage": "125W"
+    },
+    "individualRating": "4",
+    "averageRating": "4.4",
+    "reviews": [
+      {
+        "username": "User1",
+        "rating": "4",
+        "comment": "This product is great!"
+      },
+      {
+        "username": "User2",
+        "rating": "5",
+        "comment": "Highly recommended!"
+      },
+      {
+        "username": "User3",
+        "rating": "3",
+        "comment": "It's okay, but could be better."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/processor/amd/5600x/5600x-001-500x500.jpg",
+    "productName": "AMD Ryzen 5 5600 Processor",
+    "category": "Processor",
+    "status": "In Stock",
+    "price": "14000",
+    "description": "AMD Ryzen 5 5600 Processor has 6 processor cores, 12 threads, and an astonishingly efficient 45-65W TDP. This processor stands with 3.5GHz Base Clock, 4.4GHz Max Boost Clock, 3MB L2 Cache, 32 MB L3 Cache with AM4 Package, and TSMC 7nm FinFET CMOS.",
+    "keyFeatures": {
+      "brand": "amd",
+      "model": "Ryzen 5 5600",
+      "specification": "3.5GHz up to 4.4GHz",
+      "port": "Port",
+      "type": "AMD ZEN 3 Architecture",
+      "resolution": "Resolution",
+      "voltage": "65W"
+    },
+    "individualRating": "4",
+    "averageRating": "4.4",
+    "reviews": [
+      {
+        "username": "User1",
+        "rating": "4",
+        "comment": "This product is great!"
+      },
+      {
+        "username": "User2",
+        "rating": "5",
+        "comment": "Highly recommended!"
+      },
+      {
+        "username": "User3",
+        "rating": "3",
+        "comment": "It's okay, but could be better."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/Motherboard/Gigabyte/GIGABYTE%20GA-J1800M-D3P/GIGABYTE%20GA-J1800M-D3P-1-228x228.jpg",
+    "productName": "Gigabyte B560 AORUS ELITE Motherboard",
+    "category": "Motherboard",
+    "status": "In Stock",
+    "price": "14000",
+    "description": "Gigabyte B560 AORUS ELITE Motherboard supports 10th and 11th Gen Intel Core Processors. It features dual M.2 slots, USB 3.2 Gen2 ports, and robust power design to deliver stable performance for gaming and productivity.",
+    "keyFeatures": {
+      "brand": "Gigabyte",
+      "model": "B560 AORUS ELITE",
+      "specification": "Supports 10th and 11th Gen Intel Core Processors",
+      "port": "Dual M.2 slots, USB 3.2 Gen2",
+      "type": "ATX Form Factor",
+      "resolution": "Resolution",
+      "voltage": "N/A"
+    },
+    "individualRating": "4.5",
+    "averageRating": "4.3",
+    "reviews": [
+      {
+        "username": "User1",
+        "rating": "5",
+        "comment": "Excellent motherboard for the price!"
+      },
+      {
+        "username": "User2",
+        "rating": "4",
+        "comment": "Good features and build quality."
+      },
+      {
+        "username": "User3",
+        "rating": "4.5",
+        "comment": "Easy to install and works flawlessly."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/ram/apacer/panther-golden-4gb-ddr4-2666mhz/panther-golden-4gb-ddr4-2666mhz-01-228x228.jpg",
+    "productName": "Corsair Vengeance RGB Pro 16GB DDR4 RAM",
+    "category": "RAM",
+    "status": "In Stock",
+    "price": "14000",
+    "description": "Corsair Vengeance RGB Pro is a 16GB DDR4 RAM kit designed for high-performance overclocking. It features mesmerizing RGB lighting and aluminum heatspreaders for efficient heat dissipation.",
+    "keyFeatures": {
+      "brand": "Corsair",
+      "model": "Vengeance RGB Pro",
+      "specification": "16GB DDR4 RAM",
+      "port": "DIMM",
+      "type": "288-Pin",
+      "resolution": "Resolution",
+      "voltage": "1.35V"
+    },
+    "individualRating": "4.7",
+    "averageRating": "4.8",
+    "reviews": [
+      {
+        "username": "User1",
+        "rating": "5",
+        "comment": "Fast and visually stunning RAM!"
+      },
+      {
+        "username": "User2",
+        "rating": "5",
+        "comment": "Easy to configure RGB lighting."
+      },
+      {
+        "username": "User3",
+        "rating": "4.5",
+        "comment": "Works great with my gaming setup."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/gamdias/aura-gp550/aura-gp550-01-228x228.webp",
+    "productName": "Corsair TX550M 550W 80 Plus Gold PSU",
+    "category": "PowerSupply",
+    "status": "In Stock",
+    "price": "14000",
+    "description": "The Corsair TX550M is a 550W power supply unit with 80 Plus Gold efficiency, providing stable power for your PC components. It features a semi-modular design for easy cable management.",
+    "keyFeatures": {
+      "brand": "Corsair",
+      "model": "TX550M",
+      "specification": "550W 80 Plus Gold",
+      "port": "Modular",
+      "type": "ATX",
+      "resolution": "Resolution",
+      "voltage": "100-240V"
+    },
+    "individualRating": "4.8",
+    "averageRating": "4.6",
+    "reviews": [
+      {
+        "username": "User1",
+        "rating": "5",
+        "comment": "Reliable and efficient PSU!"
+      },
+      {
+        "username": "User2",
+        "rating": "4",
+        "comment": "Semi-modular design is helpful."
+      },
+      {
+        "username": "User3",
+        "rating": "5",
+        "comment": "Quiet operation and good performance."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/HDD/Western%20Digital/WD%20INT%20Blue%201TB-228x228.jpg",
+    "productName": "WD Blue 2TB SATA Internal Hard Drive",
+    "category": "StorageDevice",
+    "status": "In Stock",
+    "price": "14000",
+    "description": "The WD Blue 2TB SATA Internal Hard Drive provides reliable storage for your data-intensive tasks. It's designed for desktop PCs, All-in-One PCs, and external enclosures.",
+    "keyFeatures": {
+      "brand": "Western Digital (WD)",
+      "model": "Blue",
+      "specification": "2TB SATA Internal Hard Drive",
+      "port": "SATA 6 Gb/s",
+      "type": "3.5-inch HDD",
+      "resolution": "Resolution",
+      "voltage": "N/A"
+    },
+    "individualRating": "4.6",
+    "averageRating": "4.5",
+    "reviews": [
+      {
+        "username": "User1",
+        "rating": "4",
+        "comment": "Spacious and reliable storage!"
+      },
+      {
+        "username": "User2",
+        "rating": "5",
+        "comment": "Great value for the capacity."
+      },
+      {
+        "username": "User3",
+        "rating": "4.5",
+        "comment": "Works perfectly for my storage needs."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/monitor/msi/mp223/mp223-06-500x500.webp",
+    "productName": "AOC C24G1 24-inch Curved Gaming Monitor",
+    "category": "Monitor",
+    "status": "In Stock",
+    "price": "14000",
+    "description": "The AOC C24G1 is a 24-inch curved gaming monitor with a 144Hz refresh rate and 1ms response time, delivering smooth visuals and responsiveness for an immersive gaming experience.",
+    "keyFeatures": {
+      "brand": "AOC",
+      "model": "C24G1",
+      "specification": "24-inch Curved Gaming Monitor",
+      "port": "HDMI, DisplayPort, VGA",
+      "type": "VA Panel",
+      "resolution": "1920 x 1080 (Full HD)",
+      "voltage": "N/A"
+    },
+    "individualRating": "4.9",
+    "averageRating": "4.7",
+    "reviews": [
+      {
+        "username": "User1",
+        "rating": "5",
+        "comment": "The curved display is fantastic!"
+      },
+      {
+        "username": "User2",
+        "rating": "5",
+        "comment": "144Hz makes a big difference in gaming."
+      },
+      {
+        "username": "User3",
+        "rating": "4.5",
+        "comment": "Color reproduction is excellent."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/asus/prime-h610m-d-d4/prime-h610m-d-d4-01-228x228.jpg",
+    "productName": "ASUS ROG Strix B550-F Gaming Wi-Fi Motherboard",
+    "category": "Motherboard",
+    "status": "In Stock",
+    "price": "14000",
+    "description": "The ASUS ROG Strix B550-F Gaming Wi-Fi Motherboard is designed for gamers and enthusiasts. It supports AMD AM4 Ryzen processors and comes with built-in Wi-Fi 6 for high-speed wireless connectivity.",
+    "keyFeatures": {
+      "brand": "ASUS",
+      "model": "ROG Strix B550-F Gaming Wi-Fi",
+      "specification": "Supports AMD AM4 Ryzen processors",
+      "port": "Dual M.2 slots, USB 3.2 Gen2, Wi-Fi 6",
+      "type": "ATX Form Factor",
+      "resolution": "Resolution",
+      "voltage": "N/A"
+    },
+    "individualRating": "4.8",
+    "averageRating": "4.6",
+    "reviews": [
+      {
+        "username": "User1",
+        "rating": "5",
+        "comment": "Top-notch motherboard for gaming!"
+      },
+      {
+        "username": "User2",
+        "rating": "4.5",
+        "comment": "Wi-Fi 6 works great for online gaming."
+      },
+      {
+        "username": "User3",
+        "rating": "5",
+        "comment": "Impressive performance and aesthetics."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/asus/ex-h610m-v3-d4/ex-h610m-v3-d4-01-228x228.webp",
+    "productName": "MSI B450 TOMAHAWK MAX Motherboard",
+    "category": "Motherboard",
+    "status": "In Stock",
+    "price": "14000",
+    "description": "The MSI B450 TOMAHAWK MAX Motherboard is a reliable choice for budget-conscious builders. It supports AMD Ryzen processors and offers excellent stability and performance.",
+    "keyFeatures": {
+      "brand": "MSI",
+      "model": "B450 TOMAHAWK MAX",
+      "specification": "Supports AMD Ryzen processors",
+      "port": "Dual M.2 slots, USB 3.1 Gen2",
+      "type": "ATX Form Factor",
+      "resolution": "Resolution",
+      "voltage": "N/A"
+    },
+    "individualRating": "4.6",
+    "averageRating": "4.4",
+    "reviews": [
+      {
+        "username": "User1",
+        "rating": "4.5",
+        "comment": "Great value and performance!"
+      },
+      {
+        "username": "User2",
+        "rating": "4",
+        "comment": "Solid and stable motherboard."
+      },
+      {
+        "username": "User3",
+        "rating": "5",
+        "comment": "Easy BIOS setup and good compatibility."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/trident-z-8gb/trident-z-8gb-228x228.jpg",
+    "productName": "G.SKILL Trident Z RGB 16GB DDR4 RAM",
+    "category": "RAM",
+    "status": "In Stock",
+    "price": "14000",
+    "description": "G.SKILL Trident Z RGB is a high-performance 16GB DDR4 RAM kit designed for enthusiasts and overclockers. It features customizable RGB lighting and XMP 2.0 support for easy overclocking.",
+    "keyFeatures": {
+      "brand": "G.SKILL",
+      "model": "Trident Z RGB",
+      "specification": "16GB DDR4 RAM",
+      "port": "DIMM",
+      "type": "288-Pin",
+      "resolution": "Resolution",
+      "voltage": "1.35V"
+    },
+    "individualRating": "4.8",
+    "averageRating": "4.7",
+    "reviews": [
+      {
+        "username": "User1",
+        "rating": "5",
+        "comment": "Excellent RAM for gaming and multitasking."
+      },
+      {
+        "username": "User2",
+        "rating": "4.5",
+        "comment": "RGB lighting looks amazing."
+      },
+      {
+        "username": "User3",
+        "rating": "5",
+        "comment": "Stable performance even with heavy usage."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/trident-z-rgb/trident-z-01-228x228.webp",
+    "productName": "Team T-FORCE Vulcan 16GB DDR4 RAM",
+    "category": "RAM",
+    "status": "In Stock",
+    "price": "14000",
+    "description": "Team T-FORCE Vulcan is a reliable and budget-friendly 16GB DDR4 RAM kit designed for mainstream users. It offers excellent performance for everyday tasks and gaming.",
+    "keyFeatures": {
+      "brand": "Team",
+      "model": "T-FORCE Vulcan",
+      "specification": "16GB DDR4 RAM",
+      "port": "DIMM",
+      "type": "288-Pin",
+      "resolution": "Resolution",
+      "voltage": "1.2V"
+    },
+    "individualRating": "4.5",
+    "averageRating": "4.4",
+    "reviews": [
+      {
+        "username": "User1",
+        "rating": "4",
+        "comment": "Affordable and gets the job done."
+      },
+      {
+        "username": "User2",
+        "rating": "5",
+        "comment": "Reliable RAM for general use."
+      },
+      {
+        "username": "User3",
+        "rating": "4.5",
+        "comment": "Good value for the price."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/trident-z-rgb-8gb/trident-z-rgb-8gb-1-228x228.jpg",
+    "productName": "Corsair Vengeance LPX 32GB DDR4 RAM",
+    "category": "RAM",
+    "status": "In Stock",
+    "price": "14000",
+    "description": "Corsair Vengeance LPX is a high-capacity 32GB DDR4 RAM kit designed for content creators and heavy multitaskers. It offers stable performance and is compatible with XMP 2.0 profiles.",
+    "keyFeatures": {
+      "brand": "Corsair",
+      "model": "Vengeance LPX",
+      "specification": "32GB DDR4 RAM",
+      "port": "DIMM",
+      "type": "288-Pin",
+      "resolution": "Resolution",
+      "voltage": "1.35V"
+    },
+    "individualRating": "4.6",
+    "averageRating": "4.5",
+    "reviews": [
+      {
+        "username": "User1",
+        "rating": "5",
+        "comment": "Perfect for video editing and rendering tasks."
+      },
+      {
+        "username": "User2",
+        "rating": "4",
+        "comment": "Reliable RAM with ample capacity."
+      },
+      {
+        "username": "User3",
+        "rating": "5",
+        "comment": "Runs smoothly even with multiple applications open."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/antec/antec-atom/antec-atom-01-228x228.jpg",
+    "productName": "Cooler Master MWE Gold V2 550W PSU",
+    "category": "PowerSupply",
+    "status": "In Stock",
+    "price": "14000",
+    "description": "The Cooler Master MWE Gold V2 is a 550W power supply unit with 80 Plus Gold efficiency, delivering stable and reliable power to your PC components. It features a fully modular design for easy cable management.",
+    "keyFeatures": {
+      "brand": "Cooler Master",
+      "model": "MWE Gold V2",
+      "specification": "550W 80 Plus Gold",
+      "port": "Fully Modular",
+      "type": "ATX",
+      "resolution": "Resolution",
+      "voltage": "100-240V"
+    },
+    "individualRating": "4.7",
+    "averageRating": "4.6",
+    "reviews": [
+      {
+        "username": "User1",
+        "rating": "5",
+        "comment": "Excellent PSU with clean power delivery."
+      },
+      {
+        "username": "User2",
+        "rating": "4.5",
+        "comment": "Fully modular design is a game-changer."
+      },
+      {
+        "username": "User3",
+        "rating": "4",
+        "comment": "Runs cool and silent."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/power-train/pt-p200b/pt-p200b-01-228x228.webp",
+    "productName": "Thermaltake Smart Series 600W PSU",
+    "category": "PowerSupply",
+    "status": "In Stock",
+    "price": "14000",
+    "description": "The Thermaltake Smart Series is a 600W power supply unit that offers reliable performance for mainstream users. It features multiple protection mechanisms to safeguard your system components.",
+    "keyFeatures": {
+      "brand": "Thermaltake",
+      "model": "Smart Series",
+      "specification": "600W",
+      "port": "Non-Modular",
+      "type": "ATX",
+      "resolution": "Resolution",
+      "voltage": "100-240V"
+    },
+    "individualRating": "4.5",
+    "averageRating": "4.4",
+    "reviews": [
+      {
+        "username": "User1",
+        "rating": "4",
+        "comment": "Affordable PSU with decent performance."
+      },
+      {
+        "username": "User2",
+        "rating": "5",
+        "comment": "Great value for a non-modular PSU."
+      },
+      {
+        "username": "User3",
+        "rating": "4.5",
+        "comment": "Reliable and quiet operation."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/ssd/twinmos/128gb-m-2-2280-sataiii-ssd/128gb-m-2-2280-sataiii-ssd-01-228x228.webp",
+    "productName": "Samsung 860 EVO 500GB SATA SSD",
+    "category": "StorageDevice",
+    "status": "In Stock",
+    "price": "14000",
+    "description": "The Samsung 860 EVO 500GB SATA SSD offers high-speed data transfer and reliable performance for your computing needs. It's ideal for upgrading laptops and desktops with faster and more efficient storage.",
+    "keyFeatures": {
+      "brand": "Samsung",
+      "model": "860 EVO",
+      "specification": "500GB SATA SSD",
+      "port": "SATA 6 Gb/s",
+      "type": "2.5-inch SSD",
+      "resolution": "Resolution",
+      "voltage": "N/A"
+    },
+    "individualRating": "4.8",
+    "averageRating": "4.7",
+    "reviews": [
+      {
+        "username": "User1",
+        "rating": "5",
+        "comment": "Super-fast and reliable SSD!"
+      },
+      {
+        "username": "User2",
+        "rating": "4.5",
+        "comment": "Significant improvement in boot time."
+      },
+      {
+        "username": "User3",
+        "rating": "5",
+        "comment": "Great value for a high-quality SSD."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/p300-1tb/p300-1tb-1-228x228.jpg",
+    "productName": "Seagate Barracuda 1TB SATA Internal Hard Drive",
+    "category": "StorageDevice",
+    "status": "In Stock",
+    "price": "14000",
+    "description": "The Seagate Barracuda 1TB SATA Internal Hard Drive is a reliable and cost-effective storage solution for everyday computing needs. It's designed for desktop PCs and external enclosures.",
+    "keyFeatures": {
+      "brand": "Seagate",
+      "model": "Barracuda",
+      "specification": "1TB SATA Internal Hard Drive",
+      "port": "SATA 6 Gb/s",
+      "type": "3.5-inch HDD",
+      "resolution": "Resolution",
+      "voltage": "N/A"
+    },
+    "individualRating": "4.5",
+    "averageRating": "4.3",
+    "reviews": [
+      {
+        "username": "User1",
+        "rating": "4.5",
+        "comment": "Affordable and reliable HDD."
+      },
+      {
+        "username": "User2",
+        "rating": "4",
+        "comment": "Good choice for basic storage needs."
+      },
+      {
+        "username": "User3",
+        "rating": "5",
+        "comment": "Quiet and efficient hard drive."
+      }
+    ]
+  },
+  {
+    
+    "image": "https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/lg-24gn65r-b/lg-24gn65r-b-228x228.webp",
+    "productName": "LG 27GL850 27-inch QHD Gaming Monitor",
+    "category": "Monitor",
+    "status": "In Stock",
+    "price": "14000",
+    "description": "The LG 27GL850 is a 27-inch QHD gaming monitor with a 144Hz refresh rate and 1ms response time, providing smooth and accurate visuals for a superior gaming experience.",
+    "keyFeatures": {
+      "brand": "LG",
+      "model": "27GL850",
+      "specification": "27-inch QHD Gaming Monitor",
+      "port": "HDMI, DisplayPort",
+      "type": "Nano IPS Panel",
+      "resolution": "2560 x 1440 (QHD)",
+      "voltage": "N/A"
+    },
+    "individualRating": "4.8",
+    "averageRating": "4.6",
+    "reviews": [
+      {
+        "username": "User1",
+        "rating": "5",
+        "comment": "Excellent color accuracy and refresh rate!"
+      },
+      {
+        "username": "User2",
+        "rating": "5",
+        "comment": "A perfect monitor for gaming and productivity."
+      },
+      {
+        "username": "User3",
+        "rating": "4.5",
+        "comment": "Ergonomic design with thin bezels."
+      }
+    ]
+  },
+  {
+
+    "image": "https://www.startech.com.bd/image/cache/catalog/monitor/samsung/lc27t550fdw/lc27t550fdw-01-228x228.jpg",
+    "productName": "Samsung Odyssey G5 27-inch Curved Gaming Monitor",
+    "category": "Monitor",
+    "status": "In Stock",
+    "price": "14000",
+    "description": "The Samsung Odyssey G5 is a 27-inch curved gaming monitor with a 144Hz refresh rate and 1ms response time, delivering smooth and immersive gameplay for gamers.",
+    "keyFeatures": {
+      "brand": "Samsung",
+      "model": "Odyssey G5",
+      "specification": "27-inch Curved Gaming Monitor",
+      "port": "HDMI, DisplayPort",
+      "type": "VA Panel",
+      "resolution": "2560 x 1440 (QHD)",
+      "voltage": "N/A"
+    },
+    "individualRating": "4.7",
+    "averageRating": "4.5",
+    "reviews": [
+      {
+        "username": "User1",
+        "rating": "5",
+        "comment": "The curved display enhances gaming experience."
+      },
+      {
+        "username": "User2",
+        "rating": "4",
+        "comment": "Good monitor, value for money."
+      },
+      {
+        "username": "User3",
+        "rating": "5",
+        "comment": "Vivid colors and minimal ghosting."
+      }
+    ]
+  }
+]
